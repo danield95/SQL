@@ -1,10 +1,13 @@
 # SQL - building a database and accessing information from it
 In this project I have built a mySQL database and I populated it with a dataset downloaded from Kaggle. Furthermore, with the purpose of practising, I have also implemented multiple queries.
 
-#### -- Project Status: [in progress]
+#### -- Project Status: [Completed]
 
 ## Project Description/Objective
 The purpose of this project is to learn how to build a mySQL database and to practice my skills in the SQL syntax.
+
+* `tables_creation.ipynb` code for creating the Database
+* `queries.ipynb`implementing queries
 
 ### Technologies
 * Python
@@ -28,5 +31,3 @@ The purpose of this project is to learn how to build a mySQL database and to pra
 3. Database and table creation at `tables_creation.ipynb`.
 
 4. Select data practice at `queries.ipynb`.
-
-...
